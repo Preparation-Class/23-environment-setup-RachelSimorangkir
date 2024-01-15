@@ -1,9 +1,9 @@
-// NIM - NAMA
+// 12S23020 - Rachel C.P Simorangkir
 
 #include <stdio.h>
 
 int main(char **_argc, int _argv)
 {
-    // Show your code here ...
+    printf("Hello, world!");
     return 0;
 }
